@@ -1,0 +1,11 @@
+# Copy of this file gets made as sockseek.conf the first time you run Download Playlists.bat.
+# Put your login in sockseek.conf, NOT in this example file.
+
+# Your Soulseek login. Use a DIFFERENT account than the one you use in Nicotine+
+# (or any other Soulseek app), or the two will keep kicking each other offline.
+username = YOUR_SOULSEEK_USERNAME
+password = YOUR_SOULSEEK_PASSWORD
+
+# Prefer FLAC, but accept these formats if there's no FLAC (keeps out .opus and other oddballs)
+pref-format = flac
+format = flac,mp3,m4a,wav

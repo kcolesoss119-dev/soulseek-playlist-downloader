@@ -1,0 +1,8 @@
+# Your login - never upload this
+sockseek.conf
+# Sockseek itself (download it from its own GitHub releases)
+sockseek.exe
+# Your music, playlists, and temp files
+Music/
+.work/
+Playlists/*.csv
