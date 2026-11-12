@@ -1,0 +1,2 @@
+Export a playlist at exportify.app, then drop the .csv file in this folder.
+Each playlist gets its own folder inside Music.
